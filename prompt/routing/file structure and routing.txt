@@ -1,0 +1,23 @@
+I am working on a Next.js (App Router) + Prisma + PostgreSQL project. Below are my Prisma models and example data. Based on these models, give me a recommended frontend  file/folder structure including:
+
+* Components
+* App route folders (e.g., /courses/\[courseId])
+* Hooks if needed
+* Utility folder if required
+* Shared types/interfaces
+* State management if needed
+
+Also consider that I am using:
+
+* Clerk for auth
+* Tailwind CSS
+* shadcn ui
+* React Query (@tanstack/react-query)
+* Dark/light mode toggle is already available in the navbar
+* I may support mobile responsiveness later
+
+Below are my Prisma models and sample data:
+
+```prisma
+
+```
