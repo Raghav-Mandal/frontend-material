@@ -1,0 +1,24 @@
+Prompt 3: Convert v0.dev UI to Real Component (Dynamic + Typed)
+I will provide you with the static UI component code generated from https://v0.dev. You must:
+
+Refactor it into a dynamic component:
+
+Replace all dummy/static data with props
+
+Accept props that match the fields from backend models I will give you
+
+Keep the same UI and classNames — no design changes
+
+Add typing support using TypeScript and model types
+
+Ensure API fetch integration:
+
+Accept the data as props if rendered server-side
+
+Or fetch with React Query if client-side
+
+Remove any unnecessary functionality or fields that were added by v0.dev but not present in the actual model
+
+Ensure theme compatibility (dark/light mode) and preserve any animations or hover effects that were included
+
+Output only the cleaned and optimized React component file (e.g., CourseDetails.tsx) and list any required packages if needed (like framer-motion, clsx, react-query, etc.).

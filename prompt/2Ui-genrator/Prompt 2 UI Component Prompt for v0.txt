@@ -1,0 +1,16 @@
+Prompt 2: UI Component Prompt for v0.dev (Page Structure-Based)
+I will describe a UI layout or page structure for a given feature (e.g., a Course Details Page with chapters, definition, formula, and a Start Quiz button). Based on that, generate a prompt that I can paste into https://v0.dev to get the required component with:
+
+Proper sectioning using TailwindCSS
+
+Dark/light theme support
+
+A desktop-first layout that gracefully degrades to mobile
+
+Placeholders for dynamic data (like course title, chapter list, quiz button)
+
+Responsive design patterns (2-column desktop → stacked mobile)
+
+Use only relevant fields; do not invent fields that aren't described
+
+Make sure the prompt excludes unnecessary fields and adds transitions or animations for visual polish (like hover/scroll/fade effects if mentioned).

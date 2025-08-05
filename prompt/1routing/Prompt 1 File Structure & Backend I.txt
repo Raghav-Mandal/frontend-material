@@ -1,0 +1,29 @@
+ Prompt 1: File Structure & Backend Integration (Based on Models)
+I will give you all the backend models (like User, Course, Chapter, Quiz, etc.) including their fields and relationships. Based on this, generate a complete frontend project folder structure using Next.js App Router, Clerk authentication (if present), Prisma ORM, and TailwindCSS (with ShadCN UI). Include the necessary structure for:
+
+API routes (/api)
+
+Components
+
+Pages (using App Router)
+
+UI for fetching and displaying model data
+
+Folder structure for modular and scalable project organization.
+
+I am using Clerk for authentication and Prisma with PostgreSQL. My backend includes the following models:
+
+
+{
+
+
+data model paste here 
+
+
+
+}
+
+
+Keep the file names clear and consistent. Assume React Query is used for fetching data, and the app supports dark mode with a global theme provider. Only output the folder and file structure — not the code content.
+
+

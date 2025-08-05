@@ -1,0 +1,6 @@
+ Example Use Flow
+🔹 First, give model structure → use Prompt 1 → get your project structure.
+
+🔹 Then, describe page layout (like LeetCode-style split layout) → use Prompt 2 → generate it in v0.dev.
+
+🔹 Paste the component you get from v0 → use Prompt 3 → convert to real component based on your models.
